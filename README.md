@@ -142,3 +142,9 @@
 </html>
 
 ```
+
+![Screenshot 2024-10-04 at 8 49 42 PM](https://github.com/user-attachments/assets/c7e60a03-0555-43e1-90fd-3bfe19a9df39)
+![Screenshot 2024-10-04 at 8 49 54 PM](https://github.com/user-attachments/assets/7525ed93-c843-4991-a649-fa12e5b70f17)
+![Screenshot 2024-10-04 at 8 50 01 PM](https://github.com/user-attachments/assets/203dcca9-c19d-409f-990f-f9a3b4015324)
+
+
